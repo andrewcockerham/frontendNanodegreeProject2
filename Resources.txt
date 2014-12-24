@@ -1,0 +1,11 @@
+Resources
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#Array_iteration_and_for...in
+
+http://www.w3schools.com/jsref/jsref_parseint.asp
+
+http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members
+
+http://www.w3schools.com/jsref/jsref_indexof.asp
+
+http://www.w3schools.com/js/js_array_methods.asp
